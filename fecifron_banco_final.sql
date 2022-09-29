@@ -211,7 +211,7 @@ CREATE TABLE IF NOT EXISTS `usuario` (
 --
 
 INSERT INTO `usuario` (`id_usuario`, `nome`, `email`, `fk_instituicao`) VALUES
-(1, 'administrador', 'admin', 1),
+(1, 'administrador', 'admin', 1);
 
 --
 -- Restrições para despejos de tabelas
